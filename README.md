@@ -1,82 +1,105 @@
-Instagram Auto Unfollow Bot ⚡
-A premium, open-source dashboard designed to help you clean your Instagram following list safely and efficiently. No more manual checking; let the bot handle the work while you stay in the safe zone.
+<div align="center">
 
-🛡️ Security & Privacy (100% Local)
-Your privacy is non-negotiable.
+# Instagram Auto Unfollow Bot ⚡
+### A Premium Chrome Extension for Smarter Profile Management
 
-100% Open Source: Transparent code available for audit.
+**A professional, open-source browser extension to clean your Instagram following safely.**
 
-Zero Data Collection: This extension does not see, use, or receive your data. Everything stays on your machine.
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+[![Privacy](https://img.shields.io/badge/Privacy-100%25_Local-green.svg)](#-security--privacy-100-local)
+[![Type](https://img.shields.io/badge/Type-Chrome_Extension-blue.svg)](#-installation--setup)
 
-Local Processing: Data analysis and filtering happen strictly within your browser.
+---
 
-Safe & Legal: Uses the MIT License, protecting you and the developer while ensuring the code remains free.
+### 🛡️ Security & Privacy (100% Local)
+*Your privacy is non-negotiable. This extension operates entirely within your browser.*
 
-🚀 How to Use the Extension
-Once you have installed the extension and have your Instagram data ZIP ready (see instructions below), follow these steps:
+</div>
 
-Load Your Data
-Drag and drop your Instagram ZIP file directly into the dashboard, or click to select it from your files.
+* **100% Open Source**: Transparent code available for audit.
+* **Zero Data Collection**: As a client-side **extension**, it does not see, use, or receive your data.
+* **Local Processing**: All analysis and filtering happen strictly within your browser environment.
+* **Safe & Legal**: Uses the **MIT License**, protecting you and the developer.
 
-Note: Scroll down to the next section if you don't have your ZIP folder yet.
+---
 
-Set Your Protection Filters
-Select the types of accounts you want the bot to skip. You can protect Verified celebrities, Business/Creator accounts, or anyone with a high follower count.
+<div align="center">
 
-Configure Your Speed & Limits
+## 🚀 How to Use the Extension
+*Follow these steps once the extension is installed in your browser.*
 
-Cycle Speed: The time the bot waits between opening new tabs.
+</div>
 
-Action Speed: The time the bot waits between clicking "Unfollow" buttons inside the tab.
+### 1. Load Your Data
+Drag and drop your Instagram ZIP file directly into the **extension dashboard**.
+<p align="center">
+  <img src="images/A1.png" width="600" alt="Load Data">
+</p>
 
-Unfollow Limit: Enter exactly how many people you want to remove in this session.
+### 2. Set Your Protection Filters
+Select the accounts you want the **extension** to **skip**. Protect Verified accounts, Businesses, or celebrities.
+<p align="center">
+  <img src="images/A2.png" width="600" alt="Set Filters">
+</p>
 
-Start the Purge
-Press the Start Session button.
+### 3. Configure & Start
+Set your Cycle Speed (between tabs) and Action Speed (between clicks). Enter your limit and press **Start**.
+<p align="center">
+  <img src="images/A3.png" width="600" alt="Start Bot">
+</p>
 
-⚠️ IMPORTANT: Do not use Instagram in your browser while the extension is running. The bot needs full control of the Instagram tabs it opens to perform the actions correctly.
+> [!WARNING]
+> **Do not use Instagram in your browser while the extension is active.** The bot needs full control of the windows it opens to work correctly.
 
-📦 How to Get Your Data ZIP
-Meta allows you to download your data through the Accounts Center. Follow these steps precisely:
+---
 
-Go to Account Center — Open Settings and enter the Meta Accounts Center.
-![Step 1 Placeholder]
+<div align="center">
 
-Information & Permissions — Choose "Your information and permissions."
-![Step 2 Placeholder]
+## 📦 How to Get Your Instagram Data ZIP
+*Follow these precise steps to get the correct data from Meta for the extension.*
 
-Export Your Data — Click "Download your information."
-![Step 3 Placeholder]
+</div>
 
-Create Export — Click "Download or transfer information."
-![Step 4 Placeholder]
+| Step | Instruction | Visual Guide |
+| :--- | :--- | :--- |
+| **01** | **Account Center**<br>Open Settings and enter the Meta Accounts Center. | <img src="images/1.png" width="400"> |
+| **02** | **Info & Permissions**<br>Choose "Your information and permissions." | <img src="images/2.png" width="400"> |
+| **03** | **Export Data**<br>Click "Download your information." | <img src="images/3.png" width="400"> |
+| **04** | **Create Export**<br>Click "Download or transfer information." | <img src="images/4.png" width="400"> |
+| **05** | **Select Account**<br>Choose your main Instagram profile. | <img src="images/5.png" width="400"> |
+| **06** | **Export Type**<br>Choose "Download to device." | <img src="images/6.png" width="400"> |
+| **07** | **Customise Info**<br>Click "Some of your information." | <img src="images/7.png" width="400"> |
+| **08** | **🚨 CRITICAL**<br>Uncheck everything. Select **ONLY** "Followers and Following." | <img src="images/8.png" width="400"> |
+| **09** | **Verification**<br>Ensure your selection looks exactly like this. | <img src="images/9.png" width="400"> |
+| **10** | **Download**<br>Click Download once Meta notifies you it is ready. | <img src="images/10.png" width="400"> |
 
-Select Account — Choose your main Instagram profile.
-![Step 5 Placeholder]
+---
 
-Export Type — Choose "Download to device."
-![Step 6 Placeholder]
+<div align="center">
 
-Customise Info — Click "Some of your information."
-![Step 7 Placeholder]
+## 🛠️ Installation & Setup
 
-🚨 Selection (CRITICAL) — Uncheck everything. Scroll to Connections and select ONLY "Followers and Following."
-![Step 8 Placeholder]
+</div>
 
-Verification — Ensure your selection looks exactly like this to keep the file small and fast.
-![Step 9 Placeholder]
+1.  **Download** this repository and extract the folder to your computer.
+2.  Open **Chrome** and navigate to `chrome://extensions`.
+3.  Enable **Developer Mode** (the toggle in the top right corner).
+4.  Click **Load unpacked** and select the folder containing this extension's files.
 
-Download — Once Meta prepares the file (you will get a notification), click Download.
-![Step 10 Placeholder]
+---
 
-🛠️ Installation
-Download this repository and extract the folder.
+<div align="center">
 
-Open Chrome and go to chrome://extensions.
+### ⚖️ License & Disclaimer
+Distributed under the **MIT License**.
 
-Enable Developer Mode (top right).
+---
 
-Click Load unpacked and select the bot folder.
+### ☕ Support My Work
+If this extension saved you hours of manual work, consider supporting its development!
 
-⚖️ License & Disclaimer
-Distributed under the MIT License. This tool is for educational purposes. Users are responsible for adhering to Instagram's Terms of Service. The developer is not liable for account restrictions resulting from misuse.
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
+
+</div>
+
+This tool is for educational purposes. Users are responsible for adhering to Instagram's Terms of Service. The developer is not liable for account restrictions resulting from misuse.

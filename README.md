@@ -25,6 +25,23 @@
 
 <div align="center">
 
+## 🛠️ Installation & Setup
+
+</div>
+
+> [!CAUTION]
+> **YOU MUST EXTRACT THE ZIP FILE.** Chrome cannot load an extension directly from a ZIP archive. You must unzip the downloaded file into a regular folder before proceeding to the steps below.
+
+1.  [**Click here to download the Official Release (v3.4)**](https://github.com/urshabib/Instagram-Auto-Unfollow-BOT/releases/tag/v3.4).
+2.  **Extract (unzip)** the downloaded file to a permanent folder on your computer.
+3.  Open **Chrome** and navigate to `chrome://extensions`.
+4.  Enable **Developer Mode** using the toggle in the top right corner.
+5.  Click the **Load unpacked** button and select the folder you just extracted.
+
+---
+
+<div align="center">
+
 ## 🚀 How to Use the Extension
 *Follow these steps once the extension is installed in your browser.*
 
@@ -75,30 +92,15 @@ Set your Cycle Speed (between tabs) and Action Speed (between clicks). Enter you
 
 ---
 
-<div align="center">
 
-## 🛠️ Installation & Setup
-
-</div>
-
-1.  **Download** this repository and extract the folder to your computer.
-2.  Open **Chrome** and navigate to `chrome://extensions`.
-3.  Enable **Developer Mode** (the toggle in the top right corner).
-4.  Click **Load unpacked** and select the folder containing this extension's files.
-
----
 
 <div align="center">
 
 ### ⚖️ License & Disclaimer
 Distributed under the **MIT License**.
 
----
 
-### ☕ Support My Work
-If this extension saved you hours of manual work, consider supporting its development!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/yourusername)
 
 </div>
 

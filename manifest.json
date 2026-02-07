@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Instagram Auto Unfollow Bot ⚡",
+  "version": "3.4",
+  "description": "The ultimate dashboard to safely clean your following list using Instagram ZIP data and smart filters.",
+  "permissions": [
+    "storage", 
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://www.instagram.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon128.png"
+  },
+  "icons": {
+    "128": "icon128.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.instagram.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
